@@ -811,5 +811,6 @@ Yash Rustogi
 - [Ali Zain Aldeen] (https://github.com/ali-zain-aldeen)
 - [Harshvardhan Mestha @DevsocPI](https://github.com/Harshvardhan-Mestha)
 - [Preet Gupta@devsoc](https://github.com/preetgupta32)
+- [Meet Dedhia@devsoc](https://github.com/MeetDedhia602)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
